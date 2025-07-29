@@ -7,9 +7,7 @@
 
 - 🔭 I’m currently working on **HRM & Textile Factory M.S.**
 
-- 👯 I’m looking to collaborate on **Open Source projects**
-
-- 👨‍💻 All of my projects are available at [tharakakasun.info](tharakakasun.info)
+- 👯 I’m looking to collaborate on **Open Source projects** 
 
 - 💬 Ask me about **PHP, Laravel & Codeigniter**
 
