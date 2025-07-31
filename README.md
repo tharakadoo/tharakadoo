@@ -12,6 +12,24 @@
   </a>
 </p>
 <hr>
+🔭 **Textile Factory Management System**
+<h4 align="left">Technologies:</h4>
+<p align="left"> Codeigniter 3, Bootstrap, Jquery </p>
+<p align="left">
+  <a href="https://youtu.be/q9a-TVOlowA" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-TFMS-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video" />
+  </a>
+</p>
+<hr>
+🔭 **HRM**
+<h4 align="left">Technologies:</h4>
+<p align="left"> Laravel 8, Bootstrap, Jquery </p>
+<p align="left">
+  <a href="https://youtu.be/REqo2gHj0U8" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-HRM-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video" />
+  </a>
+</p>
+<hr>
 🔭 **Micro Finance Management System**
 <h4 align="left">Technologies:</h4>
 <p align="left"> Laravel 8, Bootstrap, Jquery </p>
@@ -23,10 +41,37 @@
 <hr>
 🔭 **Gift Card Management System**
 <h4 align="left">Technologies:</h4>
-<p align="left"> Laravel 8, Bootstrap, Jquery </p>
+<p align="left"> Laravel 11, Bootstrap, Jquery </p>
 <p align="left">
   <a href="https://youtu.be/3L1IODmXhxE" target="_blank">
     <img src="https://img.shields.io/badge/Watch%20Demo%20Video-GCMS-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video" />
+  </a>
+</p>
+<hr>
+🔭 **Dispensary Management System**
+<h4 align="left">Technologies:</h4>
+<p align="left"> Laravel 11, Bootstrap, Jquery </p>
+<p align="left">
+  <a href="https://youtu.be/XcbSbezGsKE" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-DMS-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video" />
+  </a>
+</p>
+<hr>
+🔭 **Payment Management System**
+<h4 align="left">Technologies:</h4>
+<p align="left"> Laravel 11, Bootstrap, Jquery </p>
+<p align="left">
+  <a href="https://youtu.be/gUn0ALM9FfE" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-PMS-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video" />
+  </a>
+</p>
+<hr>
+🔭 **Fleet Management System**
+<h4 align="left">Technologies:</h4>
+<p align="left"> Laravel 8, Bootstrap, Jquery </p>
+<p align="left">
+  <a href="https://youtu.be/LxXzch4WMhE" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20Demo%20Video-FMS-red?style=for-the-badge&logo=youtube" alt="Watch Demo Video" />
   </a>
 </p>
 <hr>
